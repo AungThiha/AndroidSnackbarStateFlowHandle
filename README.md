@@ -21,7 +21,7 @@ A lifecycle-aware Snackbar library that eliminates boilerplate and prevents miss
 
 ```kotlin
 dependencies {
-    implementation("io.github.aungthiha-android-snackbar-stateflow-handle-1.0.0")
+    implementation("io.github.aungthiha:android-snackbar-stateflow-handle:1.0.0")
 }
 ```
 
