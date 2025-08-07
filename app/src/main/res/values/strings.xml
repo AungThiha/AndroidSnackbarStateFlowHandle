@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="hello_from_AndroidSnackbarStateFlowHandle">Hello from AndroidSnackbarStateFlowHandle</string>
+    <string name="ok">Ok</string>
+</resources>
